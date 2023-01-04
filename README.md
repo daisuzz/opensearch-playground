@@ -8,4 +8,4 @@ $ curl -XGET http://localhost:9200
 ```
 
 ## Dashboardへのアクセス
-`http://localhost:5601/`にブラウザでアクセス'
+`http://localhost:5601/`にブラウザでアクセス
