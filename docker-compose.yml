@@ -22,7 +22,7 @@ services:
     environment:
       - cluster.name=docker-cluster
       - node.name=os-node
-      - cluster.initial_master_nodes=os-node
+      - cluster.initial_cluster_manager_nodes=os-node
       - bootstrap.memory_lock=true
       - http.host=0.0.0.0
       - transport.host=127.0.0.1
