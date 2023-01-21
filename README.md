@@ -1,6 +1,5 @@
 ## 起動手順
 ```sh
-$ cd ~/playground/opensearch
 $ docker-compose up -d
 
 // 以下コマンドを叩いてレスポンスが返ってくればOK
